@@ -1,0 +1,77 @@
+{
+	"type": "Collection",
+	"properties": {
+		"productid": {
+			"name": "productid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "productid",
+			"order": 0
+		},
+		"price": {
+			"name": "price",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "price",
+			"order": 1
+		},
+		"notes": {
+			"name": "notes",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "notes",
+			"order": 2
+		},
+		"currency": {
+			"name": "currency",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "currency",
+			"order": 3
+		},
+		"discount": {
+			"name": "discount",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "discount",
+			"order": 4
+		},
+		"afterdiscount": {
+			"name": "afterdiscount",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "afterdiscount",
+			"order": 5
+		},
+		"updated": {
+			"name": "updated",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "updated",
+			"order": 6
+		},
+		"datefrom": {
+			"name": "datefrom",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "datefrom",
+			"order": 7
+		},
+		"dateto": {
+			"name": "dateto",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "dateto",
+			"order": 8
+		}
+	}
+}

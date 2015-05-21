@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"code": {
+			"name": "code",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "code",
+			"order": 0
+		},
+		"providerid": {
+			"name": "providerid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "providerid",
+			"order": 1
+		}
+	}
+}

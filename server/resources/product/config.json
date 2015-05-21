@@ -1,0 +1,109 @@
+{
+	"type": "Collection",
+	"properties": {
+		"SKU": {
+			"name": "SKU",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "SKU",
+			"order": 0
+		},
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "name",
+			"order": 1
+		},
+		"created": {
+			"name": "created",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "created",
+			"order": 2
+		},
+		"updated": {
+			"name": "updated",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "updated",
+			"order": 3
+		},
+		"priority": {
+			"name": "priority",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "priority",
+			"order": 4
+		},
+		"status": {
+			"name": "status",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "status",
+			"order": 5
+		},
+		"category": {
+			"name": "category",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "category",
+			"order": 6
+		},
+		"vendorid": {
+			"name": "vendorid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "vendorid",
+			"order": 7
+		},
+		"vendorprice": {
+			"name": "vendorprice",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "vendorprice",
+			"order": 8
+		},
+		"vendorpriceupdated": {
+			"name": "vendorpriceupdated",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "vendorpriceupdated",
+			"order": 9
+		},
+		"vendorproductstatus": {
+			"name": "vendorproductstatus",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "vendorproductstatus",
+			"order": 10
+		},
+		"productrating": {
+			"name": "productrating",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "productrating",
+			"order": 11
+		},
+		"deliverytime": {
+			"name": "deliverytime",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "deliverytime",
+			"order": 12
+		}
+	}
+}

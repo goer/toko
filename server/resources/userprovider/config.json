@@ -1,0 +1,53 @@
+{
+	"type": "Collection",
+	"properties": {
+		"userid": {
+			"name": "userid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "userid",
+			"order": 0
+		},
+		"provider": {
+			"name": "provider",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "provider",
+			"order": 1
+		},
+		"code": {
+			"name": "code",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "code",
+			"order": 2
+		},
+		"validthru": {
+			"name": "validthru",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "validthru",
+			"order": 3
+		},
+		"point": {
+			"name": "point",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "point",
+			"order": 4
+		},
+		"pointupdated": {
+			"name": "pointupdated",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "pointupdated",
+			"order": 5
+		}
+	}
+}

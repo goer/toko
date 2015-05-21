@@ -1,0 +1,101 @@
+{
+	"type": "Collection",
+	"properties": {
+		"userid": {
+			"name": "userid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "userid",
+			"order": 0
+		},
+		"created": {
+			"name": "created",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "created",
+			"order": 1
+		},
+		"status": {
+			"name": "status",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "status",
+			"order": 2
+		},
+		"deliveryname": {
+			"name": "deliveryname",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "deliveryname",
+			"order": 3
+		},
+		"deliveryaddress": {
+			"name": "deliveryaddress",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "deliveryaddress",
+			"order": 4
+		},
+		"deliveryemail": {
+			"name": "deliveryemail",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "deliveryemail",
+			"order": 5
+		},
+		"deliveryphone": {
+			"name": "deliveryphone",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "deliveryphone",
+			"order": 6
+		},
+		"statusupdated": {
+			"name": "statusupdated",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "statusupdated",
+			"order": 7
+		},
+		"deliverby": {
+			"name": "deliverby",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "deliverby",
+			"order": 8
+		},
+		"deliverycode": {
+			"name": "deliverycode",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "deliverycode",
+			"order": 9
+		},
+		"deliverystatus": {
+			"name": "deliverystatus",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "deliverystatus",
+			"order": 10
+		},
+		"deliveryupdated": {
+			"name": "deliveryupdated",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "deliveryupdated",
+			"order": 11
+		}
+	}
+}
